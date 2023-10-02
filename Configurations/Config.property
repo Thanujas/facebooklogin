@@ -1,0 +1,9 @@
+baseurl=https://web.facebook.com/?_rdc=1&_rdr
+objectload=2000
+pageload=3500
+fluenttime =60
+drivername=webdriver.gecko.driver
+driverpath=E:\\Drivers\\geckodriver-v0.33.0-win64\\geckodriver.exe
+reportpath=E:\Facebook_Web_Automation\Reports\Webautomation
+screenshotpath=//Reports//Screenshots//
+imagepath=/Screenshots/
